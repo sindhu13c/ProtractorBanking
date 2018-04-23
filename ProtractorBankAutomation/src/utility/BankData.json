@@ -1,0 +1,22 @@
+{
+"url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+"firstName":"sindhu",
+"lastName":"c",
+"postCode":"95054",
+"expAlertmsgAddCustomer":"Customer added successfully with customer id",
+"openaccountCusNm":"Harry",
+"selectdollar":"Dollar",
+"selectpound":"Pound",
+"selectrupee":"Rupee",
+"expAlertMsgopenaccount":"Account created successfully with account Number",
+"deleteCusfirstName":"Ron",
+"custLoginNm":"Harry",
+"accNodollar":"1004",
+"accNoPound":"1005",
+"accNoRupee":"1006",
+"depositAmount":"2000",
+"withdrawAmount":"1000",
+"withdrawAmountMore":"10000",
+"withdrawError":"withdraw amount more than the balance",
+"withdrawSuccess":"Transaction successful"
+}
